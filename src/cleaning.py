@@ -23,5 +23,5 @@ def clean_data(df):
     df = df.dropna()
     df['order_date'] = pd.to_datetime(df['order_date'])
     df['quantity'] = df['quantity'].astype(int)
-    df['revenue'] = df['price']
+    df['revenue'] = df['price']*df['quantity']
     return df

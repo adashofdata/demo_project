@@ -1,0 +1,14 @@
+# venv folder
+.venv/
+
+# jupyter and python files
+.ipynb_checkpoints/
+__pycache__/
+
+# files main.py creates (anyone can recreate them)
+data/processed/*.csv
+outputs/*.png
+.pytest_cache/
+
+# mac files
+.DS_Store

@@ -1,0 +1,25 @@
+Order Date, Drink ,Size,Price ($),Quantity
+2026-09-01,Latte,Medium,4.50,2
+2026-09-01,Cold Brew,Large,5.25,1
+2026-09-01,Espresso,Small,3.00,3
+2026-09-02,Latte,Large,5.00,1
+2026-09-02,Mocha,Medium,4.75,2
+2026-09-02,Drip Coffee,Small,2.50,4
+2026-09-03,Cold Brew,Medium,4.75,2
+2026-09-03,Latte,Small,4.00,
+2026-09-03,Espresso,Small,3.00,2
+2026-09-04,Mocha,Large,5.50,1
+2026-09-04,Drip Coffee,Medium,3.00,3
+2026-09-04,Latte,Medium,4.50,3
+2026-09-05,Cold Brew,Large,5.25,2
+2026-09-05,,Medium,4.50,1
+2026-09-05,Drip Coffee,Large,3.50,2
+2026-09-06,Latte,Large,5.00,2
+2026-09-06,Mocha,Small,4.25,1
+2026-09-06,Espresso,Small,3.00,1
+2026-09-07,Cold Brew,Medium,4.75,3
+2026-09-07,Latte,Medium,4.50,2
+2026-09-07,Drip Coffee,Small,2.50,5
+2026-09-08,Mocha,Medium,4.75,2
+2026-09-08,Latte,Small,4.00,1
+2026-09-08,Cold Brew,Large,5.25,1

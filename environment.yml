@@ -1,0 +1,8 @@
+name: coffee_sales
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - matplotlib
+  - pytest

@@ -1,4 +1,5 @@
 # venv folder
+.env
 .venv/
 
 # jupyter and python files

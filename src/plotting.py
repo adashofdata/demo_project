@@ -7,7 +7,7 @@ def plot_revenue_by_drink(df, save_path):
 
     fig, ax = plt.subplots(figsize=(6, 4))
     revenue.plot.barh(ax=ax, color='purple')
-    ax.set_title('Total Revenue by Drink')
+    ax.set_title('Total Revenue by Drink (2026)')
     ax.set_xlabel('Revenue ($)')
     ax.set_ylabel('')
     fig.tight_layout()
